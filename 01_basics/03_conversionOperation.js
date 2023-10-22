@@ -15,3 +15,16 @@
 //conversion to string
 
 //33=> 33
+
+//"1"+2+2 => 122
+//1+2 +"2" =>32
+
+//console.log(+true) =>1  //+ means conversion
+
+//console.log(true+) => error
+
+//prefix and postfix study
+
+
+
+
